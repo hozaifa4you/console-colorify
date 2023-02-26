@@ -1,21 +1,38 @@
 {
    "name": "console-colorify",
    "version": "1.0.0",
-   "description": "",
-   "main": "index.ts",
+   "description": "This npm package make your console outstanding colorful and charm you mind and help you to improve your console.",
+   "main": "dist/index.js",
+   "types": "dist/index.d.ts",
    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "build": "tsc",
+      "prepare": "npm run build"
    },
    "repository": {
       "type": "git",
       "url": "git+https://github.com/yousuf4you/console-colorify.git"
    },
-   "keywords": [],
-   "author": "",
-   "license": "ISC",
+   "keywords": [
+      "console",
+      "colorful console",
+      "colorful",
+      "console.log"
+   ],
+   "author": {
+      "name": "Yousuf Ahamad",
+      "email": "yousuf360.ya@gmail.com",
+      "url": "https://facebook.com/yousuf4you"
+   },
+   "license": "MIT",
    "bugs": {
       "url": "https://github.com/yousuf4you/console-colorify/issues"
    },
    "homepage": "https://github.com/yousuf4you/console-colorify#readme",
-   "private": false
+   "private": false,
+   "devDependencies": {
+      "typescript": "^4.9.5"
+   },
+   "files": [
+      "dist/**/*"
+   ]
 }
