@@ -19,7 +19,7 @@ log.success("Allah is my only one God!");
 // output
 ```
 
-![MarineGEO circle logo](/public/success.png "Success message")
+![Success Message](/dist/public/success.png "Success message")
 
 Info
 
@@ -34,7 +34,7 @@ log.info("Allah is my only one God!");
 // output
 ```
 
-![MarineGEO circle logo](/public/info.png "Info message")
+![Info Message](/dist/public/info.png "Info message")
 
 Danger
 
@@ -49,7 +49,7 @@ log.danger("Allah is my only one God!");
 // output
 ```
 
-![MarineGEO circle logo](/public/danger.png "Danger message")
+![Danger Message](/dist/public/danger.png "Danger message")
 
 Error
 
@@ -64,4 +64,4 @@ log.error("Allah is my only one God!");
 // output
 ```
 
-![MarineGEO circle logo](/public/error.png "error message")
+![Error Message](/dist/public/error.png "error message")
