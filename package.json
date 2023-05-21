@@ -1,6 +1,6 @@
 {
    "name": "console-colorify.js",
-   "version": "1.1.0",
+   "version": "1.1.1",
    "description": "This npm package make your console outstanding colorful and charm you mind and help you to improve your console.",
    "main": "dist/index.js",
    "types": "dist/index.d.ts",
