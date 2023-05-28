@@ -18,8 +18,7 @@ log.success("Allah is my only one God!");
 
 // output
 ```
-
-![Success Message](/dist/public/success.png "Success message")
+![success message](https://github.com/yousuf4you/console-colorify/assets/60110696/7547defe-b628-417d-b6e2-e65f39ee9907)
 
 Info
 
@@ -33,8 +32,8 @@ log.info("Allah is my only one God!");
 
 // output
 ```
+![info message](https://github.com/yousuf4you/console-colorify/assets/60110696/1612638b-8591-426d-abc1-ca2794ae172c)
 
-![Info Message](/dist/public/info.png "Info message")
 
 Danger
 
@@ -48,8 +47,9 @@ log.danger("Allah is my only one God!");
 
 // output
 ```
+![danger message](https://github.com/yousuf4you/console-colorify/assets/60110696/af8322ff-e3fd-4da8-a599-061e59d4e5d7)
 
-![Danger Message](/dist/public/danger.png "Danger message")
+
 
 Error
 
@@ -63,5 +63,6 @@ log.error("Allah is my only one God!");
 
 // output
 ```
+![error message](https://github.com/yousuf4you/console-colorify/assets/60110696/8eb2f40e-cc1d-47a3-ad44-8a42a9cca0a3)
 
-![Error Message](/dist/public/error.png "error message")
+
